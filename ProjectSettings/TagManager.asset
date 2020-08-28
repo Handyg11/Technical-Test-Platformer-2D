@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - GM
+  - dialog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1933593207
+    locked: 0
+  - name: Trap
+    uniqueID: 1509981583
+    locked: 0
+  - name: Ground
+    uniqueID: 3818566117
+    locked: 0
+  - name: NPC
+    uniqueID: 1899505703
+    locked: 0
+  - name: Enemies
+    uniqueID: 1807510181
+    locked: 0
+  - name: Player
+    uniqueID: 2547589161
+    locked: 0
